@@ -1,4 +1,4 @@
-#This is the work of Jorge Schady for "R-programming"
+#This is the work of Jorge Schady for "R-programming" 
 
 ## Put comments here that give an overall description of what your
 ## functions do
