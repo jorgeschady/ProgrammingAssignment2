@@ -7,8 +7,7 @@
 ## lexical scoping
 
 ## makeCacheMatrix is a function that takes a matrix as an input
-## it is called and stored inside a variable, containing the matrix and
-## all the calculations inside
+## and stores the value of the original matrix and it's inverse (initially NULL)
 
 makeCacheMatrix <- function(x = matrix()) {
   inverse_matrix <- NULL          #final result object is initialized as NULL           
